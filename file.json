@@ -1,0 +1,48 @@
+{
+  "waves":
+  [
+    {"question":"Define frequency and give its units.", "answer": "The number of waves passing through a point per second. (hertz) Hz"},
+    {"question":"Define wavelength.", "answer": "The distance between two adjacent peaks on a wave."},
+    {"question":"Define amplitude.", "answer": "The maximum displacement of the wave from its equilibrium position."},
+    {"question":"How can you find out the time period of a wave using it frequency?", "answer": "T = 1/F"},
+    {"question":"What is phase difference and what is it measured in?", "answer": "How much a particle / wave lags behind another particle / wave. Measured in radians, degrees or fractions of a cycle."},
+    {"question":"What is a longitudinal wave?", "answer": "A wave in which the oscillation of the particles is parallel to the direction of energy transfer. There are rarefactions (areas of low pressure) and compressions (areas of high pressure)."},
+    {"question":"What is a transverse wave? Give examples. ", "answer": "Waves where the particle oscillations are perpendicular to the direction of energy transfer."},
+    {"question":" How fast do electromagnetic waves travel in a vacuum?", "answer": "3 x 10^8 m/s"},
+    {"question":"True or False? The magnetic field and electric field in a electromagnetic wave are parallel to each other.", "answer": "False. The electric and magnetic field are at right angles to each other. "},
+    {"question":"What does a polarising filter do?", "answer": "Only allows oscillations in one plane."},
+    {"question":"How is polarisation used as evidence of the nature of transverse waves?", "answer": "Polarisation can only occur if a wave’s oscillations are perpendicular to its direction of travel (as they are in transverse waves)."},
+    {"question":"How is polarisation used in antennas?", "answer": "TV and radio signals are usually plane-polarised by the orientation of the rods on the transmitting aerial, so the receiving aerial must be aligned in the same plane of polarisation to receive the signal at full strength."},
+    {"question":"What is a stationary wave?", "answer": "A wave which transfers no energy and whose positions of maximum and minimum amplitude are constant."},
+    {"question":"What is a node?", "answer": "A point on a stationary wave where the displacement is 0."},
+    {"question":"What is an antinode?", "answer": "A point on a stationary wave with maximum displacement."},
+    {"question":"What are the conditions for a stationary wave to be produced?", "answer": "The waves must be of the same frequency, wavelength and amplitude.   /  They must be travelling in opposite directions"},
+    {"question":"Describe the first harmonic for a stationary wave with two closed ends. ", "answer": "t consists of 2 nodes at either end and an antinode in the middle."}
+  ],
+  "mechanics":
+  [
+    {"question":"What is meant by a scalar quantity?", "answer": "A quantity that has only magnitude."},
+    {"question":"What is a vector quantity?", "answer": "A quantity that has magnitude as well as direction."},
+    {"question":"Is acceleration a vector or scalar quantity?", "answer": "Vector."},
+    {"question":"Is mass a scalar or vector quantity?", "answer": "Scalar."},
+    {"question":"What is the difference between mass and weight?", "answer": "Mass is scalar and is not dependent on the gravity acting upon it. Weight is a vector and depends on the gravitational field strength. / W = mg"},
+    {"question":"If an object is in equilibrium the sum of the anti clockwise moments would be", "answer": "Equal to the sum of the clockwise moments (principle of moments)."},
+    {"question":"How can the forces acting on a object be shown to be in equilibrium?", "answer": "Adding the horizontal and vertical components of the forces acting on it, showing they equal zero. / Or if there are 3 forces acting on the object youcan draw a scale diagram, if the scale diagram forms a closed triangle, then the object is in equilibrium."},
+    {"question":"What is a moment?", "answer": "A turning force: force multiplied by the perpendicular distance from the point to the line of action of the force."},
+    {"question":"What is meant by a couple?", "answer": "A pair of equal and opposite coplanar forces."},
+    {"question":"What is meant by the centre of mass?", "answer": "The point through which all the mass of an object acts, for a uniform object the centre of mass is the centre of the object"}
+  ],
+  "materials":
+  [
+    {"question":"What is Hooke’s law?", "answer": "Extension (∆L) is directly proportional to force applied (F), given that the environmental conditions are kept constant."},
+    {"question":"What equation is used to calculate density?", "answer": "Density = Mass / Volume"},
+    {"question":"What is meant by tensile stress?", "answer": "The force applied per unit cross sectional area."},
+    {"question":"What is tensile strain?", "answer": "A measure of how the material stretches: the extension (ΔL) divided by the original length (L), strain has no units."},
+    {"question":"What is the difference between elastic and plastic deformation?", "answer": "Elastic deformation: when the force is removed the object will return to its original shape. / Plastic deformation: after the load is removed the object will not return to its original shape."},
+    {"question":"What is breaking stress?", "answer": "The minimum stress needed to break a material."},
+    {"question":"What is meant when a material is described as brittle?", "answer": "It doesn’t deform plastically but breaks when the stress reaches a certain value."},
+    {"question":"What is the elastic limit?", "answer": "The force above which the material will be plastically deformed (permanently stretched)."},
+    {"question":"How do you find the Young’s modulus from a stress-strain graph?", "answer": "The gradient of the line."},
+    {"question":"How can a force-extension graph show Hooke’s Law is being obeyed?", "answer": "When it is a straight line through the origin ie. force and extension are directly proportional."}
+  ]
+}
