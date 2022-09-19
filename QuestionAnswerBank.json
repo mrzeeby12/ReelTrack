@@ -44,9 +44,7 @@
     {"question":"What is the elastic limit?", "answer": "The force above which the material will be plastically deformed (permanently stretched)."},
     {"question":"How do you find the Young’s modulus from a stress-strain graph?", "answer": "The gradient of the line."},
     {"question":"How can a force-extension graph show Hooke’s Law is being obeyed?", "answer": "When it is a straight line through the origin ie. force and extension are directly proportional."}
-  ]
-},
-{
+  ],
   "waves_Wanswers":
   [
     {"Answer1":"A position of maximum displacement in a stationary wave. ", "Answer2": " The spreading of waves as they pass through a gap of a similar magnitude to their wavelength", "Answer 3":"A position of minimum displacement in a stationary wave"},  
@@ -73,7 +71,7 @@
     {"Answer1":"The product of an object’s mass and velocity", "Answer2": "A non Turning Force", "Answer 3":"A scalar unit"},
     {"Answer1":"A pair of equal and opposite forces ", "Answer2": "A point that is not on the object", "Answer 3":"A Quantum figure that relates to the mass of an object"}
   ], 
-    "Materials_WAnswers":
+  "Materials_WAnswers":
   [
        {"Answer1":"Extension (∆L) is NOT directly proportional to force applied (F), given that the environmental conditions are kept constant.", "Answer2": "Force is Inverserly proportional to the energy gained by the spring ", "Answer 3":"A collision in which the total kinetic energy of the system before the collision is not equal to the kinetic energy of the system after the collision"},  
     {"Answer1":"volume/mass", "Answer2": "surface area/ Weight", "Answer 3":"Force * perpindicular distance from the line of action"},
@@ -86,6 +84,4 @@
     {"Answer1":"extension of an elastic object will be directly proportional to the force applied to it up to the object’s limit of proportionality", "Answer2": " A vector quantity is one that has both a magnitude and a direction. Examples include velocity, displacement and acceleration", "Answer 3":"The maximum speed of an object that occurs when the resistive and driving forces acting on the object are equal to each other"},
     {"Answer1":"When it is curved line not passing through the origin ", "Answer2": "A straight line that does not pass through the origin", "Answer 3":"When there is no correlation between the data points being applied."}
   ] 
-  
-  
 }
