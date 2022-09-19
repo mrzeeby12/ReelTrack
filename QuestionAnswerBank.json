@@ -11,14 +11,7 @@
     {"question":" How fast do electromagnetic waves travel in a vacuum?", "answer": "3 x 10^8 m/s"},
     {"question":"True or False? The magnetic field and electric field in a electromagnetic wave are parallel to each other.", "answer": "False. The electric and magnetic field are at right angles to each other. "},
     {"question":"What does a polarising filter do?", "answer": "Only allows oscillations in one plane."},
-    {"question":"How is polarisation used as evidence of the nature of transverse waves?", "answer": "Polarisation can only occur if a wave’s oscillations are perpendicular to its direction of travel (as they are in transverse waves)."},
-    {"question":"How is polarisation used in antennas?", "answer": "TV and radio signals are usually plane-polarised by the orientation of the rods on the transmitting aerial, so the receiving aerial must be aligned in the same plane of polarisation to receive the signal at full strength."},
-    {"question":"What is a stationary wave?", "answer": "A wave which transfers no energy and whose positions of maximum and minimum amplitude are constant."},
-    {"question":"What is a node?", "answer": "A point on a stationary wave where the displacement is 0."},
-    {"question":"What is an antinode?", "answer": "A point on a stationary wave with maximum displacement."},
-    {"question":"What are the conditions for a stationary wave to be produced?", "answer": "The waves must be of the same frequency, wavelength and amplitude.   /  They must be travelling in opposite directions"},
-    {"question":"Describe the first harmonic for a stationary wave with two closed ends. ", "answer": "t consists of 2 nodes at either end and an antinode in the middle."}
-  ],
+    ],
   "mechanics":
   [
     {"question":"What is meant by a scalar quantity?", "answer": "A quantity that has only magnitude."},
